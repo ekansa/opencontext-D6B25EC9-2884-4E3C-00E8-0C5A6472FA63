@@ -41,7 +41,7 @@
           <oc:var_label type="nominal">Species</oc:var_label>
           <oc:show_val>Equid</oc:show_val>
           
-        <oc:linkedData><oc:relationLink localType="variable" localID="E1AA18BC-1F21-4940-FD35-0FE1ABC85081" href="http://purl.org/NET/biol/ns#term_hasTaxonomy"><oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary><oc:label>Has Biological Taxonomy</oc:label><oc:targetLink localType="property" localID="2FFD254D-A4BF-40F0-AF70-B5DABB89CF1C" localURI="http://opencontext.org/properties/2FFD254D-A4BF-40F0-AF70-B5DABB89CF1C" href="http://eol.org/pages/11018612"><oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary><oc:label>Equus</oc:label></oc:targetLink></oc:relationLink></oc:linkedData></arch:property>
+        <oc:linkedData><oc:relationLink localType="variable" localID="E1AA18BC-1F21-4940-FD35-0FE1ABC85081" href="http://purl.org/NET/biol/ns#term_hasTaxonomy"><oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary><oc:label>Has Biological Taxonomy</oc:label><oc:targetLink localType="property" localID="2FFD254D-A4BF-40F0-AF70-B5DABB89CF1C" localURI="http://opencontext.org/properties/2FFD254D-A4BF-40F0-AF70-B5DABB89CF1C" href="http://eol.org/pages/15580"><oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary><oc:label>Equus</oc:label></oc:targetLink></oc:relationLink></oc:linkedData></arch:property>
         <arch:property>
           <arch:variableID>5E0B85C2-A680-4FA9-A9DE-84B40AADCA00</arch:variableID>
           <arch:valueID>65AE8BEE-4D16-4492-8D3C-8A7677B5BDE3</arch:valueID>
